@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Grace Chi
 - 👀 I’m interested in mobile app development and blockchain technology!
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently practicing JS with beginner mini projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 Feel free to reach me at gracetrc7@gmail.com
 
