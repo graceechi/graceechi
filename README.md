@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Grace Chi
-- 👀 I’m interested in blockchain technology and artificial intelligence!
+- 👀 I’m interested in mobile app development and blockchain technology!
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 Feel free to reach me at gracetrc7@gmail.com
