@@ -1,7 +1,7 @@
 Hi, I'm Grace 👋 
 - 🌱 I’m currently learning Javascript
 - 🔍 I'm interested in front end and full stack development, and I want to learn more about building mobile applications and blockchain technology in the future! ✨
-- 📫 Feel free to reach me at gracetrc7@gmail.com
+- 📫 How to reach me: gracetrc7@gmail.com
 
 
 
