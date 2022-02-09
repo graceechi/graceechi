@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Grace Chi
-- 👀 I’m interested in mobile app development and blockchain technology in the future!
+Hi, I'm Grace 👋 
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 🔍 I'm interested in front end and full stack development, and I want to learn more about building mobile applications and blockchain technology in the future! ✨
 - 📫 Feel free to reach me at gracetrc7@gmail.com
+
+
 
 <!---
 graceechi/graceechi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
