@@ -1,4 +1,14 @@
-Hi, I'm Grace 👋 
+## Hi there, I'm Grace Chi 👋 
+
+
+![Grace Chi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=graceechi&show_icons=true&theme=tokyonight)
+
+[![Grace Chi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=graceechi&theme=radical)](https://github.com/graceechi/github-readme-streak-stats)
+
+[![Grace Chi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=graceechi&theme=blue-green)](https://github.com/graceechi/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=graceechi&color=green&style=for-the-badge)
+
 <!-- - 🌱 I’m currently learning Javascript
 - 🔍 I'm interested in front end and full stack development, and I want to learn more about building mobile applications and blockchain technology in the future! ✨
 - 📫 How to reach me: gracetrc7@gmail.com -->
