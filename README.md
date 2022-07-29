@@ -5,14 +5,17 @@
 <a href="https://graceechi.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
 </p>
 
-## What I'm up to right now?
-* [Beautsy](https://aa-beautsy.herokuapp.com/), an e-commerce website, is the latest project that I'm working on
-* I'm currently improving my skills in Javascript and Python
-* I’m looking forward to growing as a software engineer and am especially enthusiastic to learn about blockchain technology and artificial intelligence in the future!
-* In my free time, I enjoy baking/cooking, acrylic painting, traveling, and exploring new restaurants/bars!
+<hr> 
+  
+* ✨ [Beautsy](https://aa-beautsy.herokuapp.com/), an e-commerce website, is the latest project that I'm working on
+* 🌱 I'm currently improving my skills in Javascript and Python
+* 👩🏻‍💻  I’m looking forward to growing as a software engineer and am especially enthusiastic to learn about blockchain technology and artificial intelligence in the future!
+* 👩🏻‍🍳 In my free time, I enjoy baking/cooking, acrylic painting, traveling, and exploring new restaurants/bars!
 
+<hr>
+  
 ![Grace Chi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=graceechi&show_icons=true&theme=tokyonight)
-
+  
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
