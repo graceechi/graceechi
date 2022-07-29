@@ -1,13 +1,11 @@
-## Hi there, I'm Grace Chi 👋 
+## Welcome to my page, I'm Grace Chi! 👋 
 
-<!-- ![https://user-images.githubusercontent.com/90019010/181687281-9792af14-16fe-4bb9-afda-1f4aa883958a.svg](https://www.linkedin.com/in/graceechi/) -->
-
+<p><a href="https://github.com/graceechi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/graceechi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="mailto:gracetrc7@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://graceechi.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+</p>
 
 ![Grace Chi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=graceechi&show_icons=true&theme=tokyonight)
-
-[![Grace Chi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=graceechi&theme=radical)](https://github.com/graceechi/github-readme-streak-stats)
-
-<!-- [![Grace Chi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=graceechi&theme=blue-green)](https://github.com/graceechi/github-readme-stats) -->
 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -33,10 +31,20 @@
 ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![image](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
+![image](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
 ![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=graceechi&color=green&style=for-the-badge)
+
+
+
+
+
+<!-- [![Grace Chi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=graceechi&theme=radical)](https://github.com/graceechi/github-readme-streak-stats) -->
+
+<!-- [![Grace Chi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=graceechi&theme=blue-green)](https://github.com/graceechi/github-readme-stats) -->
+
 
 <!-- - 🌱 I’m currently learning Javascript
 - 🔍 I'm interested in front end and full stack development, and I want to learn more about building mobile applications and blockchain technology in the future! ✨
