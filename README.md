@@ -1,4 +1,13 @@
 ## Welcome to my page, I'm Grace Chi! 👋 
+  
+* ✨ [Beautsy](https://aa-beautsy.herokuapp.com/), a beauty e-commerce website, is my latest project.
+* 🌱 I'm currently improving my skills in Javascript and Python.
+* 👩🏻‍💻  I’m looking forward to growing as a software engineer and am especially enthusiastic to learn about blockchain technology, machine learning/artificial intelligence, and mobile app development in the future!
+* 👩🏻‍🍳 When I'm not coding, I enjoy baking/cooking, acrylic painting, traveling, and exploring new restaurants/bars!
+
+<hr>
+
+<i>Let's connect and chat!<i> ☕️
 
 <p><a href="https://github.com/graceechi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/graceechi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="mailto:gracetrc7@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -6,13 +15,6 @@
 </p>
 
 <hr> 
-  
-* ✨ [Beautsy](https://aa-beautsy.herokuapp.com/), an e-commerce website, is the latest project that I'm working on
-* 🌱 I'm currently improving my skills in Javascript and Python
-* 👩🏻‍💻  I’m looking forward to growing as a software engineer and am especially enthusiastic to learn about blockchain technology and artificial intelligence in the future!
-* 👩🏻‍🍳 In my free time, I enjoy baking/cooking, acrylic painting, traveling, and exploring new restaurants/bars!
-
-<hr>
   
 ![Grace Chi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=graceechi&show_icons=true&theme=tokyonight)
   
