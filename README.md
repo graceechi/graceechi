@@ -16,7 +16,8 @@
 
 <hr> 
   
-![Grace Chi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=graceechi&show_icons=true&theme=tokyonight)
+![Grace Chi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=graceechi&show_icons=true&theme=tokyonight)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=graceechi&theme=react&hide_border=false)
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -48,7 +49,7 @@
 
 ![Profile_Views](https://komarev.com/ghpvc/?username=graceechi&color=green&style=for-the-badge)
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=graceechi&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
