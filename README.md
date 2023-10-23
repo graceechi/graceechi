@@ -1,6 +1,6 @@
 ## Welcome to my page, I'm Grace Chi! 👋 
   
-* ✨ [Beautsy](https://aa-beautsy.herokuapp.com/), a beauty e-commerce website, is my latest project.
+* ✨ [Beautsy](https://shop-beautsy.onrender.com/), a beauty e-commerce website, is my latest project.
 * 🌱 I'm currently improving my skills in Javascript and Python.
 * 👩🏻‍💻  I’m looking forward to growing as a software engineer and am especially enthusiastic to learn about machine learning/artificial intelligence and mobile app development in the future!
 * 👩🏻‍🍳 When I'm not coding, I enjoy baking/cooking, acrylic painting, traveling, and exploring new restaurants/bars!
