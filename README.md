@@ -1,9 +1,9 @@
 ## Welcome to my page, I'm Grace Chi! 👋 
   
 * ✨ [Beautsy](https://shop-beautsy.onrender.com/), a beauty e-commerce website, is my latest project.
-* 🌱 I'm currently learning Java, while improving my skills in Javascript and Python.
-* 👩🏻‍💻 I’m looking forward to growing as a software engineer and am especially enthusiastic to learn about machine learning/artificial intelligence and mobile app development! Check out my [portfolio](https://graceechi.github.io/)!
-* 👩🏻‍🍳 When I'm not coding, I enjoy baking/cooking, acrylic painting, traveling, and exploring new restaurants/bars!
+* 🌱 I'm currently learning Java, while improving my skills in Javascript and Python. Check out my [portfolio](https://graceechi.github.io/)!
+* 👩🏻‍💻 I have experience in test automation and am enthusiastic to learn about machine learning/artificial intelligence and mobile app development!
+* 👩🏻‍🍳 When I'm not coding, I love exploring cute cafes and scenic spots, baking/cooking healthy recipes, acrylic painting, curating playlists and my fashion style, and traveling with friends.
 
 <hr>
 
@@ -16,10 +16,10 @@
 
 <hr> 
   
-![Grace Chi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=graceechi&show_icons=true&theme=tokyonight)<br/>
+<!-- ![Grace Chi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=graceechi&show_icons=true&theme=tokyonight)<br/>
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=graceechi&theme=react&hide_border=false) -->
   
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<!--![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
