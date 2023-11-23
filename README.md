@@ -14,7 +14,7 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:gracetrc7@gmail.com)
 [<img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white">](https://github.com/graceechi)
 
-<hr> 
+<!-- <hr> 
   
 <!-- ![Grace Chi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=graceechi&show_icons=true&theme=tokyonight)<br/>
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=graceechi&theme=react&hide_border=false) -->
