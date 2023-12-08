@@ -1,7 +1,7 @@
 ## Welcome to my page, I'm Grace Chi! 👋 
   
 * ✨ [Beautsy](https://shop-beautsy.onrender.com/), a beauty e-commerce website, is my latest project.
-* 🌱 I'm currently learning Java, while improving my skills in Javascript and Python. Check out my [portfolio](https://graceechi.github.io/)!
+* 🌱 I'm currently learning Cucumber and Java, while improving my skills in Javascript and Python. Check out my [portfolio](https://graceechi.github.io/)!
 * 👩🏻‍💻 I have experience in test automation and am enthusiastic to learn about machine learning/artificial intelligence and mobile app development!
 * 👩🏻‍🍳 When I'm not coding, I love exploring cute cafes and scenic spots, baking/cooking healthy recipes, acrylic painting, curating playlists and my fashion style, and traveling with friends.
 
