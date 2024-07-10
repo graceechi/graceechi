@@ -3,7 +3,7 @@
 * ✨ [Beautsy](https://shop-beautsy.onrender.com/), a beauty e-commerce website, is my latest project.
 * 🌱 I'm currently learning Java, while improving my skills in Javascript and Python. <!--!Check out my [portfolio](https://graceechi.github.io/)!-->
 * 👩🏻‍💻 I have experience in test automation and am enthusiastic to learn more about machine learning/artificial intelligence and mobile app development!
-* 👩🏻‍🍳 When I'm away from my desk, I love traveling, exploring new restaurants and bars, baking/cooking healthy recipes, acrylic painting, playing the piano, and reading!
+* 👩🏻‍🍳 When I'm away from my desk, I love traveling, exploring new restaurants and bars, baking/cooking healthy recipes, pilates/boxing, playing the piano, and reading!
 
 <hr>
 
